@@ -21,7 +21,7 @@ Certifique-se de ter o Python 3.7 ou superior instalado em sua máquina.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/zeer0e1/nome_ibge_curso_azimov.git](https://github.com/zeer0e1/nome_ibge_curso_azimov.git)
+    git clone https://github.com/zeer0e1/nome_ibge_curso_azimov.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
